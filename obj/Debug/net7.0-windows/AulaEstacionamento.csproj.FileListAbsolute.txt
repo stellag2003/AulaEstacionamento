@@ -1,0 +1,17 @@
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.Form1.resources
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.AssemblyInfo.cs
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\bin\Debug\net7.0-windows\AulaEstacionamento.exe
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\bin\Debug\net7.0-windows\AulaEstacionamento.deps.json
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\bin\Debug\net7.0-windows\AulaEstacionamento.runtimeconfig.json
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\bin\Debug\net7.0-windows\AulaEstacionamento.dll
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\bin\Debug\net7.0-windows\AulaEstacionamento.pdb
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.dll
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\refint\AulaEstacionamento.dll
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.pdb
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\AulaEstacionamento.genruntimeconfig.cache
+C:\Users\Public\source\repos\Projeto\stella gonçalves\AulaEstacionamento\AulaEstacionamento\obj\Debug\net7.0-windows\ref\AulaEstacionamento.dll
